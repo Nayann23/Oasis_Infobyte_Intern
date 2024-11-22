@@ -3,7 +3,7 @@ Landing Page for Oasis Infobyte
 
 🌟 Features
 Modern UI: A sleek gradient-based design with a vibrant purple theme.
-Interactive 3D Sphere:
+Interactive 3D Sphere: 
 Rotates and responds to hover interactions.
 Enhanced with a glowing effect using filter: drop-shadow(0 0 10px crimson);.
 
