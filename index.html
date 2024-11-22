@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+   
+  </head>
+
+  <body>
+    <div id="main" >
+      <div id="page1"  >
+        <div id="navcontainer">
+          <nav>
+            <div id="logocontain">
+              <h2>Jarvis</h2>
+            </div>
+            <div id="menu-icon">
+              <i class="menu-icon">☰</i>
+            </div>
+            <div id="part2">
+              <a href="#">Features</a>
+              <a href="#">Integrations</a>
+              <a href="#" >Use Cases</a>
+              <a href="#">Pricing</a>
+            </div>
+            <div id="part3">
+              <button id="btn">Sign in</button>
+            </div>
+          </nav>
+          <div id="mobile-nav">
+            <div class="overlay">
+              <a href="#">Features</a>
+              <a href="#">Integrations</a>
+              <a href="#" >Use Cases</a>
+              <a href="#">Pricing</a>
+            </div>
+          </div>
+          <!-- Place the close-icon here -->
+          <i class="close-icon" style="display: none">×</i>
+        </div>
+
+        <div id="page1container">
+          <h1 >
+            Get help from your
+            <span ><br />
+              personal AI assistant</span
+            >
+          </h1>
+          <button id="btn2">Start for free</button>
+        </div>
+
+            <span >
+        <div class="spline-container">
+          <spline-viewer
+            loading-anim-type="spinner-small-light"
+            url="https://prod.spline.design/q6Hdx-vPz8lNTAXy/scene.splinecode"
+          ></spline-viewer>
+        </div>
+
+        <script
+          type="module"
+          src="https://unpkg.com/@splinetool/viewer@1.9.45/build/spline-viewer.js"
+        ></script>
+      </div>
+      <div id="hide"></div>
+
+  
+    </div>
+
+ 
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"
+      integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"
+      integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script src="script.js"></script>
+  </body>
+</html>
