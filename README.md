@@ -1,8 +1,8 @@
 Landing Page for Oasis Infobyte
 🚀 A visually captivating and interactive landing page built as part of my internship at Oasis Infobyte.
-
+ 
 🌟 Features
-Modern UI: A sleek gradient-based design with a vibrant purple theme.
+Modern UI: A sleek gradient-based design with a vibrant purple theme. 
 Interactive 3D Sphere: 
 Rotates and responds to hover interactions.
 Enhanced with a glowing effect using filter: drop-shadow(0 0 10px crimson);.
