@@ -1,5 +1,5 @@
-Landing Page for Oasis Infobyte
-🚀 A visually captivating and interactive landing page built as part of my internship at Oasis Infobyte.
+Landing Page for Octanet Services.
+🚀 A visually captivating and interactive landing page built as part of my internship at Octanet Service.
  
 🌟 Features
 Modern UI: A sleek gradient-based design with a vibrant purple theme. 
